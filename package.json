@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "react-native-webrtc-usb-lib@0.0.2",
+      "/home/sohel/projs/cv/streaming-poc/my-rtc-poc"
+    ]
+  ],
+  "_from": "react-native-webrtc-usb-lib@0.0.2",
+  "_id": "react-native-webrtc-usb-lib@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-n/j7U9qqnJQ3NVBa0zQ4eOKqq1bVsCUk3RRhhiAMILLc719wMNbIYKh2Enp5csx3soeDLzLuQLvV7gZQFQ510g==",
+  "_location": "/react-native-webrtc-usb-lib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-webrtc-usb-lib@0.0.2",
+    "name": "react-native-webrtc-usb-lib",
+    "escapedName": "react-native-webrtc-usb-lib",
+    "rawSpec": "0.0.2",
+    "saveSpec": null,
+    "fetchSpec": "0.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-webrtc-usb-lib/-/react-native-webrtc-usb-lib-0.0.2.tgz",
+  "_spec": "0.0.2",
+  "_where": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc",
+  "author": {
+    "name": "Sohel Khan",
+    "email": "khan.sohel005@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sohel-khan/react-native-webrtc-usb-lib/issues"
+  },
+  "dependencies": {
+    "base64-js": "^1.1.2",
+    "event-target-shim": "^1.0.5",
+    "prop-types": "^15.5.10"
+  },
+  "description": "WebRTC for React Native with android usb camera",
+  "homepage": "https://github.com/sohel-khan/react-native-webrtc-usb-lib",
+  "keywords": [
+    "usb webrtc",
+    "webrtc usb",
+    "react native UVCCamera",
+    "react native external camera"
+  ],
+  "name": "react-native-webrtc-usb-lib",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react-native": ">=0.62.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohel-khan/react-native-webrtc-usb-lib.git"
+  },
+  "version": "0.0.2"
+}

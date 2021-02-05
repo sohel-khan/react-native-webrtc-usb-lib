@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/animator/card_flip_left_out.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/animator/card_flip_left_in.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/animator/card_flip_right_in.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/animator/card_flip_right_out.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/animator/card_flip_right_out.xml"
+    }
+]

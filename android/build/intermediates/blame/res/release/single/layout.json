@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/seekbar_preference.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/layout/seekbar_preference.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/listitem_device.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/600c933ca6edd9168a929cb8a6769b8d/jetified-libuvccamera-release/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/color_picker_dialog.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/cd3511f9214d3e7b9860cfae0624bcef/jetified-react-native-0.63.4/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/dialog_camera.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/600c933ca6edd9168a929cb8a6769b8d/jetified-libuvccamera-release/res/layout/dialog_camera.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/list_item_bluetooth_device_info.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/layout/list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/003564936a98162fbdc3e4a2ca6d8cd0/core-1.0.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/cd3511f9214d3e7b9860cfae0624bcef/jetified-react-native-0.63.4/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/color_picker.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/layout/color_picker.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/003564936a98162fbdc3e4a2ca6d8cd0/core-1.0.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/view_frame_selector.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/layout/view_frame_selector.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/003564936a98162fbdc3e4a2ca6d8cd0/core-1.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/cd3511f9214d3e7b9860cfae0624bcef/jetified-react-native-0.63.4/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/003564936a98162fbdc3e4a2ca6d8cd0/core-1.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/item_picker.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/layout/item_picker.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/cd3511f9214d3e7b9860cfae0624bcef/jetified-react-native-0.63.4/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/cd3511f9214d3e7b9860cfae0624bcef/jetified-react-native-0.63.4/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/003564936a98162fbdc3e4a2ca6d8cd0/core-1.0.1/res/layout/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

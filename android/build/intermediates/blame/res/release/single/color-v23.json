@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/color-v23/abc_tint_edittext.xml"
+    }
+]

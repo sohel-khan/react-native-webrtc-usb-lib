@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/003564936a98162fbdc3e4a2ca6d8cd0/core-1.0.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/drawable-v21/star.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/drawable-v21/star.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

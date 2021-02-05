@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,158",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "103,153,203"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "611,664,714",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "659,709,759"
+                    }
+                },
+                {
+                    "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/9a80326d760c4ee1c13d20776734bf2b/jetified-libuvccommon-release/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,158",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "103,153,203"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "611,664,714",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "659,709,759"
+                    }
+                },
+                {
+                    "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/c5c729c21251e9a4b2593a9bb8fd7fb9/appcompat-1.0.2/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                }
+            ]
+        }
+    ]
+}

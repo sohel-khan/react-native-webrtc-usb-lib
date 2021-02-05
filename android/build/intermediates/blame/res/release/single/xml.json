@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/cd3511f9214d3e7b9860cfae0624bcef/jetified-react-native-0.63.4/res/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "/home/sohel/projs/cv/streaming-poc/my-rtc-poc/node_modules/react-native-webrtc-usb/android/build/intermediates/res/merged/release/xml/device_filter.xml",
+        "source": "/home/sohel/.gradle/caches/transforms-2/files-2.1/600c933ca6edd9168a929cb8a6769b8d/jetified-libuvccamera-release/res/xml/device_filter.xml"
+    }
+]
