@@ -26,12 +26,55 @@ see [#190](https://github.com/oney/react-native-webrtc/pull/190) for detials -->
 
 ## Installation
 
-### react-native-webrtc:
+<!-- ### react-native-webrtc:
 
 <!-- - [iOS](https://github.com/oney/react-native-webrtc/blob/master/Documentation/iOSInstallation.md) -->
-- [Android](https://github.com/oney/react-native-webrtc/blob/master/Documentation/AndroidInstallation.md)
+- [Android](https://github.com/react-native-webrtc/react-native-webrtc/blob/master/Documentation/AndroidInstallation.md) -->
 
 <!-- note: 0.10.0~0.12.0 required `git-lfs`, see: [git-lfs-installation](https://github.com/oney/react-native-webrtc/blob/master/Documentation/git-lfs-installation.md) -->
+
+### Android installation:
+npm install react-native-webrtc-usb-lib  --save
+
+
+Starting with React Native 0.60 auto-linking works out of the box, so there are no extra steps.
+
+### Declaring permissions
+```javascript
+
+ <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+```
+
+### Add this line to android/gradle.properties:
+If you are getting this error:
+
+```javascript
+Fatal Exception: java.lang.UnsatisfiedLinkError: No implementation found for void org.webrtc.PeerConnectionFactory.nativeInitializeAndroidGlobals() (tried Java_org_webrtc_PeerConnectionFactory_nativeInitializeAndroidGlobals and Java_org_webrtc_PeerConnectionFactory_nativeInitializeAndroidGlobals__)
+       at org.webrtc.PeerConnectionFactory.nativeInitializeAndroidGlobals(PeerConnectionFactory.java)
+       at org.webrtc.PeerConnectionFactory.initialize(PeerConnectionFactory.java:306)
+       at com.oney.WebRTCModule.WebRTCModule.initAsync(WebRTCModule.java:79)
+       at com.oney.WebRTCModule.WebRTCModule.lambda$new$0(WebRTCModule.java:70)
+       at com.oney.WebRTCModule.-$$Lambda$WebRTCModule$CnyHZvkjDxq52UReGHUZlY0JsVw.run(-.java:4)
+       at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1162)
+       at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:636)
+       at java.lang.Thread.run(Thread.java:764)
+```
+
+Add this line to android/gradle.properties:
+```javascript
+# This one fixes a weird WebRTC runtime problem on some devices.
+# https://github.com/jitsi/jitsi-meet/issues/7911#issuecomment-714323255
+android.enableDexingArtifactTransform.desugaring=false
+
+```
+
 
 ## Usage
 Now, you can use WebRTC like in browser.
