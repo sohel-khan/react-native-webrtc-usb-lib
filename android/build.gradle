@@ -62,12 +62,11 @@ allprojects {
 
 
 dependencies {
-    implementation fileTree(include: ['*.jar'], dir: 'libs')
+       implementation fileTree(dir: "libs", include: ["*.aar"])
+
     implementation 'com.facebook.react:react-native:+'
     implementation 'org.webrtc:google-webrtc:1.0.22920'
-    // implementation(name:'libuvccommon-release', ext:'aar')
-    // implementation(name:'libuvccamera-release', ext:'aar')
-    implementation files('libs/libuvccommon-release.aar', 'libs/libuvccamera-release.aar')
+
 
 
 }
